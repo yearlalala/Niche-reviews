@@ -5,6 +5,11 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.util.List;
+/**
+ * 登录信息
+ * @author 裴迪
+ */
+
 
 @Data
 @NoArgsConstructor

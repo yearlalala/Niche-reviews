@@ -12,6 +12,14 @@ import java.io.File;
 import java.io.IOException;
 import java.util.UUID;
 
+
+/**
+ * <p>
+ * 前端控制器
+ * </p>
+ *
+ * @author 裴迪
+ */
 @Slf4j
 @RestController
 @RequestMapping("upload")

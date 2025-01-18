@@ -8,7 +8,9 @@ import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 import javax.annotation.Resource;
-
+/*
+ * @author 裴迪
+ */
 @Configuration
 public class MvcConfig implements WebMvcConfigurer {
 
